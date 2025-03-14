@@ -1,5 +1,5 @@
 # 💫 Sobre Mi:
-👨‍💻 Desarrollador web Jr<br>💼 Abierto a oportunidades de trabajo<br>🌎 (https://www.hectoralonso-portafolio.netflify.app) <br>
+👨‍💻 Desarrollador web Jr<br>💼 Abierto a oportunidades de trabajo<br>🌎 (https://hectoralonso-portafolio.netlify.app/) <br>
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonsoarenas)
